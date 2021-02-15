@@ -45,7 +45,7 @@
 var activeMode = true;
 var ipShow = true;
 var dnsShow = true;
-int directLoopUP = 5;
+var directLoopUP = parseInt(5);
 const backgroundColor = '#fff';
 const textColor = '#00008b';
 const copyright = 'Your name company';
