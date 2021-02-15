@@ -11,5 +11,6 @@ On progress...
 muhammad nurcahyo pratomo (jowo kece)
 ```
 ## License
-This code is licensed under the MIT License
+This code is licensed under the 
 [MIT](https://choosealicense.com/licenses/mit/)
+License
