@@ -5,7 +5,8 @@ DDoS protection layer (This is for make you server safty from attacker DDoS that
 ## Installation
 
 On progress...
-
+## Example Capture
+![img](https://github.com/cohayfun/DDoS-protection-layer/blob/main/example%20results.png)
 ## Authors
 ```html
 muhammad nurcahyo pratomo (jowo kece)
