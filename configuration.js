@@ -49,3 +49,6 @@ var directLoopUP = parseInt(5);
 const backgroundColor = '#fff';
 const textColor = '#00008b';
 const copyright = 'Your name company';
+
+/* Configuration artificial intelligence variable */
+var predict = ['Ai','Captcha'];
