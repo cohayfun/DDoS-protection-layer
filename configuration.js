@@ -26,7 +26,7 @@
  *	Default : 5
  *	
  *	@backgroundColor
- *	backgroundColor is background color layer
+ *	backgroundColor is background color of layer
  *	value parsing : (HEX COLOR|COLOR NAME)
  *	Default : #fff
  *	
