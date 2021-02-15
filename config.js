@@ -1,5 +1,5 @@
 /*
- * Disable developer tool like (elements, console, source, application, network, etc) and deadlock injection browser
+ * Configuration global common
  * Copyright (c) 2021 Muhammad Nurcahyo Pratomo
  *
  * Licensed under the MIT
