@@ -31,12 +31,12 @@
  *	Default : #fff
  *	
  *	@textColor
- *	textColor is redirect to your base domain name
+ *	textColor is color of text
  *	value parsing : (HEX COLOR|COLOR NAME)
  *	Default : #00008b
  *	
  *	@copyright
- *	copyright is redirect to your base domain name
+ *	copyright is put your name company
  *	value parsing : (TEXT)
  *	Default : Your name company
  */
