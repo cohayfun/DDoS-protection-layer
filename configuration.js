@@ -16,7 +16,7 @@
  *	Default : TRUE
  *	
  *	@dnsShow
- *	dnsShow is for show IP client
+ *	dnsShow is for show DNS client
  *	value parsing : (TRUE|FALSE)
  *	Default : TRUE
  *	
