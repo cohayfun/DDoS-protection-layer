@@ -1,2 +1,15 @@
 # DDoS-protection-layer
-DDoS protection layer for safety surfing internet
+```text
+DDoS protection layer (This is for make you server safty from attacker DDoS thats like request pool data to your server)
+```
+## Installation
+
+On progress...
+
+## Authors
+```html
+muhammad nurcahyo pratomo (jowo kece)
+```
+## License
+This code is licensed under the MIT License
+[MIT](https://choosealicense.com/licenses/mit/)
