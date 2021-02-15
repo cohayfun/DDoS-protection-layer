@@ -7,23 +7,45 @@
  *
  *	@activeMode
  *	activeMode is for active DDoS protected
- *	true is active
- *	false is non active
+ *	value parsing : (TRUE|FALSE)
+ *	Default : TRUE
  *	
  *	@ipShow
  *	ipShow is for show IP client
- *	true is show
- *	false is non show
+ *	value parsing : (TRUE|FALSE)
+ *	Default : 5
  *	
  *	@dnsShow
  *	dnsShow is for show IP client
- *	true is show
- *	false is non show
+ *	value parsing : (TRUE|FALSE)
+ *	Default : 5
+ *	
+ *	@directLoopUP
+ *	directLoopUP is redirect to your base domain name host
+ *	value parsing : (INTEGER)
+ *	Default : 5
+ *	
+ *	@backgroundColor
+ *	backgroundColor is background color layer
+ *	value parsing : (HEX COLOR|COLOR NAME)
+ *	Default : #fff
+ *	
+ *	@textColor
+ *	textColor is redirect to your base domain name
+ *	value parsing : (HEX COLOR|COLOR NAME)
+ *	Default : #00008b
+ *	
+ *	@copyright
+ *	copyright is redirect to your base domain name
+ *	value parsing : (TEXT)
+ *	Default : Your name company
  */
 
 /* Configuration variable */
-var activeMode = true;
-var ipShow = true;
-var dnsShow = true;
+var activeMode			= true;
+var ipShow				= true;
+var dnsShow				= true;
+int directLoopUP		= 5;
 const backgroundColor	= '#fff';
-const copyright = 'Your name company';
+const textColor			= '#00008b';
+const copyright			= 'Your name company';
