@@ -13,12 +13,12 @@
  *	@ipShow
  *	ipShow is for show IP client
  *	value parsing : (TRUE|FALSE)
- *	Default : 5
+ *	Default : TRUE
  *	
  *	@dnsShow
  *	dnsShow is for show IP client
  *	value parsing : (TRUE|FALSE)
- *	Default : 5
+ *	Default : TRUE
  *	
  *	@directLoopUP
  *	directLoopUP is redirect to your base domain name host
