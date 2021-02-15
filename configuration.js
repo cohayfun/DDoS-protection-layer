@@ -51,4 +51,4 @@ const textColor = '#00008b';
 const copyright = 'Your name company';
 
 /* Configuration artificial intelligence variable */
-var predict = ['Ai','Captcha'];
+var predict = ['default','Ai','Captcha'];
