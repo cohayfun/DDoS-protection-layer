@@ -22,8 +22,8 @@
  */
 
 /* Configuration variable */
-var activeMode			  = true;
-var ipShow				    = true;
-var dnsShow				    = true;
+var activeMode = true;
+var ipShow = true;
+var dnsShow = true;
 const backgroundColor	= '#fff';
-const copyright       = 'Your name company';
+const copyright = 'Your name company';
